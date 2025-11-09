@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run """c:\Program Files\My Company\RemoteDesktop\LoopingRDlauncher.cmd""",0,False
